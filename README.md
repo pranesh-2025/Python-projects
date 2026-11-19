@@ -6,10 +6,7 @@ This repository contains Python projects created while learning and practicing P
 ## Projects
 - Calculator
 - Number Guessing Game
-- Password Generator
-- To-Do List
-- BMI Calculator
-- File Handling
+- employee profile Generator
 - Student Management System
 
 ## Technologies Used
